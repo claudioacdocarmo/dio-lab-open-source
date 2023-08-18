@@ -48,7 +48,7 @@
 
 ##### Exemplo commit
 
-`feat: adicionado novo arquivo`
+`feat: adicionado novo arquivo` Docs update...fix #418
 
 
 ## Referências
